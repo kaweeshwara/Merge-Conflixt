@@ -1,1 +1,1 @@
-# Merge-Conflixt
+# Merge-Conflict
